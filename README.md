@@ -14,7 +14,8 @@ Anwer them all, get maximum scores and defeat your friends.
 1v1 will also be possible, you can challenge one friend in particular.
 
 - visual sketch:
-![alt text]()
+
+![alt text](Trivia/sketch.png)
 
 - main features:
 
