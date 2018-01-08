@@ -15,7 +15,7 @@ Anwer them all, get maximum scores and defeat your friends.
 
 - visual sketch:
 
-![alt text](Trivia/sketch.png)
+![alt text](https://github.com/jimiduiveman/Trivia/blob/master/sketch.png)
 
 - main features:
 
