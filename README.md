@@ -19,6 +19,8 @@ Anwer them all, get maximum scores and defeat your friends.
 
 - main features:
 
+challenge friends, competition, scoreboard, knowledge testing
+
 
 ## Prerequisites
 
@@ -30,6 +32,7 @@ External components:
 
 Review of similar mobile app:
 - https://www.cnet.com/products/trivia-crack/review/
+
 This app can be found similar, but there are a few differences.
 The app above has some payed futures which gives players an unfair advantage, my app won't allow that.
 My app wil allow group competitions and 1v1 competitions.
